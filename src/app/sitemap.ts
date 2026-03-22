@@ -24,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Blog
     { url: `${baseUrl}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
     { url: `${baseUrl}/blog/signs-you-need-foundation-repair-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${baseUrl}/blog/how-long-foundation-repair-take-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     // Company pages
     { url: `${baseUrl}/services`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
     { url: `${baseUrl}/about`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },

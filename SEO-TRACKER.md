@@ -44,7 +44,7 @@
 - [ ] window well drain Calgary
 
 ### Blog Posts To Write
-- [ ] How long does foundation repair take in Calgary?
+- [x] How long does foundation repair take in Calgary?
 - [ ] DIY foundation crack repair vs professional — what you should know
 - [ ] Best foundation repair companies in Calgary (comparison guide)
 - [ ] How to waterproof a basement in Calgary
@@ -66,6 +66,7 @@
 | Date | What Was Built | Keyword | URL | Git Push |
 |------|---------------|---------|-----|----------|
 | 2026-03-22 | Initial site build — 18 pages | foundation repair Calgary | / | Pending |
+| 2026-03-22 | Blog post: How long does foundation repair take | how long does foundation repair take Calgary | /blog/how-long-foundation-repair-take-calgary | Pending |
 
 ## Notes
 - Design system: dark bg (#0a0a0f / #111118), glass cards, sky-500 accent, Syne font for h1/h2
