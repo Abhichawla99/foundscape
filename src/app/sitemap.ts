@@ -13,6 +13,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/sump-pump-installation`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${baseUrl}/wet-basement-calgary`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     // High-intent pages
+    { url: `${baseUrl}/leaking-basement-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${baseUrl}/basement-flooding-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${baseUrl}/foundation-repair-cost-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${baseUrl}/emergency-foundation-repair-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${baseUrl}/foundation-inspection-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },

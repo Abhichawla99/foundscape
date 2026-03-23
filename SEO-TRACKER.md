@@ -33,8 +33,8 @@
 ## Keywords Still To Target (Priority Order)
 
 ### High Priority (build next)
-- [ ] leaking basement Calgary
-- [ ] basement flooding Calgary
+- [x] leaking basement Calgary
+- [x] basement flooding Calgary
 - [ ] foundation repair Airdrie
 - [ ] foundation repair Okotoks
 - [ ] foundation repair Cochrane
@@ -67,6 +67,8 @@
 |------|---------------|---------|-----|----------|
 | 2026-03-22 | Initial site build — 18 pages | foundation repair Calgary | / | Pending |
 | 2026-03-22 | Blog post: How long does foundation repair take | how long does foundation repair take Calgary | /blog/how-long-foundation-repair-take-calgary | Pending |
+| 2026-03-23 | Service page: Leaking basement in Calgary | leaking basement Calgary | /leaking-basement-calgary | Pushed |
+| 2026-03-23 | Service page: Basement flooding prevention & emergency response | basement flooding Calgary | /basement-flooding-calgary | Pushed |
 
 ## Notes
 - Design system: dark bg (#0a0a0f / #111118), glass cards, sky-500 accent, Syne font for h1/h2
