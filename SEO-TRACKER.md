@@ -35,7 +35,7 @@
 ### High Priority (build next)
 - [x] leaking basement Calgary
 - [x] basement flooding Calgary
-- [ ] foundation repair Airdrie
+- [x] foundation repair Airdrie
 - [ ] foundation repair Okotoks
 - [ ] foundation repair Cochrane
 - [ ] foundation repair Chestermere
@@ -54,7 +54,7 @@
 - [ ] Basement mould after flooding — what to do
 
 ### Neighbourhood Pages To Build
-- [ ] foundation repair Airdrie AB
+- [x] foundation repair Airdrie AB
 - [ ] foundation repair Okotoks AB
 - [ ] foundation repair Cochrane AB
 - [ ] foundation repair Chestermere AB
@@ -69,6 +69,7 @@
 | 2026-03-22 | Blog post: How long does foundation repair take | how long does foundation repair take Calgary | /blog/how-long-foundation-repair-take-calgary | Pending |
 | 2026-03-23 | Service page: Leaking basement in Calgary | leaking basement Calgary | /leaking-basement-calgary | Pushed |
 | 2026-03-23 | Service page: Basement flooding prevention & emergency response | basement flooding Calgary | /basement-flooding-calgary | Pushed |
+| 2026-03-23 | Neighbourhood page: Foundation repair Airdrie AB | foundation repair Airdrie | /foundation-repair-airdrie | Pushed |
 
 ## Notes
 - Design system: dark bg (#0a0a0f / #111118), glass cards, sky-500 accent, Syne font for h1/h2
