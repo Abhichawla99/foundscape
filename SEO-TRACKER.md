@@ -36,7 +36,7 @@
 - [x] leaking basement Calgary
 - [x] basement flooding Calgary
 - [x] foundation repair Airdrie
-- [ ] foundation repair Okotoks
+- [x] foundation repair Okotoks
 - [ ] foundation repair Cochrane
 - [ ] foundation repair Chestermere
 - [ ] concrete crack repair Calgary
@@ -55,7 +55,7 @@
 
 ### Neighbourhood Pages To Build
 - [x] foundation repair Airdrie AB
-- [ ] foundation repair Okotoks AB
+- [x] foundation repair Okotoks AB
 - [ ] foundation repair Cochrane AB
 - [ ] foundation repair Chestermere AB
 - [ ] foundation repair inner city Calgary (Inglewood, Ramsay, Kensington)
@@ -70,6 +70,7 @@
 | 2026-03-23 | Service page: Leaking basement in Calgary | leaking basement Calgary | /leaking-basement-calgary | Pushed |
 | 2026-03-23 | Service page: Basement flooding prevention & emergency response | basement flooding Calgary | /basement-flooding-calgary | Pushed |
 | 2026-03-23 | Neighbourhood page: Foundation repair Airdrie AB | foundation repair Airdrie | /foundation-repair-airdrie | Pushed |
+| 2026-03-24 | Neighbourhood page: Foundation repair Okotoks AB | foundation repair Okotoks | /foundation-repair-okotoks | Pushed |
 
 ## Notes
 - Design system: dark bg (#0a0a0f / #111118), glass cards, sky-500 accent, Syne font for h1/h2

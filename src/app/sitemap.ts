@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/foundation-inspection-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     // Neighbourhood pages
     { url: `${baseUrl}/foundation-repair-airdrie`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
+    { url: `${baseUrl}/foundation-repair-okotoks`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     { url: `${baseUrl}/calgary-nw-foundation-repair`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     { url: `${baseUrl}/calgary-sw-foundation-repair`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     { url: `${baseUrl}/calgary-se-foundation-repair`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
